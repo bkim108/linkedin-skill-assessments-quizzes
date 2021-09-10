@@ -17,14 +17,14 @@
 #### Q3. Internal controls may be preventative, detective, corrective, or directive. Which is a detective control?
 
 - [ ] data backups
-- [ ] physical inventory check
+- [x] physical inventory check
 - [ ] employee background checks
 - [ ] physical locks on inventory warehouse
 
 #### Q4. On March 15, a business receives an invoice from the power company for utilities used in February. The retailer pays the invoice on April 1. The business uses accrual-based accounting. Which month should the business recognize the expense?
 
 - [ ] April
-- [ ] March
+- [x] March
 - [ ] no record required
 - [ ] February
 
@@ -45,7 +45,7 @@
 #### Q7. Which answer best describes accruals and deferrals?
 
 - [ ] Accruals are past cash receipts and payments, while deferrals are expected future cash receipts and payments.
-- [ ] Both accruals and deferrals are both expected future cash receipts and payments.
+- [x] Both accruals and deferrals are both expected future cash receipts and payments.
 - [ ] Accruals are expected future cash receipts and payments, while deferrals are past cash receipts and payments.
 - [ ] Both accruals and deferrals are not expected past cash receipts and payments.
 
@@ -58,14 +58,14 @@
 
 #### Q9. Which is not an example of an internal control activity?
 
-- [ ] review of manufacturing plan
+- [x] review of manufacturing plan
 - [ ] segregation of duties
 - [ ] bank reconciliations
 - [ ] approval process
 
 #### Q10. Which budgeting approach request justification of all expenditures?
 
-- [ ] zero-based budgeting
+- [x] zero-based budgeting
 - [ ] master budgeting
 - [ ] rolling budgets
 - [ ] bottom-up budgeting
